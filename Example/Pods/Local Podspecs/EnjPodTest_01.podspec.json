@@ -1,0 +1,22 @@
+{
+  "name": "EnjPodTest_01",
+  "version": "0.1.0",
+  "summary": "A short description of EnjPodTest_01.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Enjolras/EnjPodTest_01",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Enjolras": "gyzios@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Enjolras/EnjPodTest_01.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EnjPodTest_01/Classes/**/*"
+}

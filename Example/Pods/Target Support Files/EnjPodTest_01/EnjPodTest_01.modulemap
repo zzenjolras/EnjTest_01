@@ -1,0 +1,6 @@
+framework module EnjPodTest_01 {
+  umbrella header "EnjPodTest_01-umbrella.h"
+
+  export *
+  module * { export * }
+}
